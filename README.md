@@ -1,3 +1,5 @@
+# https://t.me/rudy_web3
+
 # 🎯 CSGO Market Undercut Bot
 
 **Language / Язык:** [English](#english) | [Русский](#russian)
@@ -623,3 +625,4 @@ csgo-market-undercut/
 ---
 
 **⭐ Если проект вам помог - поставьте звезду на GitHub!**
+
